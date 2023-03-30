@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+	<personalInfo>
+		<firstName>Anna</firstName>
+		<lastName>Taylor</lastName>
+		<age>21</age>
+		<isMarried>false</isMarried>
+		<address>
+			<country>Ukraine</country>
+			<city>Lviv</city>
+			<street>Bandera, 20</street>
+		</address>
+		<studentId>AM-23768</studentId>
+	</personalInfo>
+	<study category="higher education">
+		<university>NULP</university>
+		<department>Applied mathematic</department>
+		<subjects>
+			<subject>Algebra and Geometry</subject>
+			<subject>Numerical Methods</subject>
+			<subject>Optimization Methods</subject>
+			<subject>Probability Theoy</subject>
+		</subjects>
+		<marks>
+			<mark>85</mark>
+			<mark>77</mark>
+			<mark>92</mark>
+			<mark>81</mark>
+		</marks>
+		<hasScholarship>true</hasScholarship>
+	</study>
+</student>

@@ -1,0 +1,24 @@
+{
+  "student": {
+    "personalInfo": {
+      "firstName": "Anna",
+      "lastName": "Taylor",
+      "age": 21,
+      "isMarried": false,
+      "address": {
+        "country": "Ukraine",
+        "city": "Lviv",
+        "street": "Bandera, 20"
+      },
+      "studentId": "AM-23768",
+	  "insurance": null
+    },
+    "study": {
+      "university": "NULP",
+      "department": "Applied mathematic",
+      "subjects": ["Algebra & Geometry", "Numerical Methods", "Optimization Methods", "Probability Theoy"],
+      "marks": [85, 77, 92, 81],
+	  "hasScholarship": true
+    }
+  }
+}
